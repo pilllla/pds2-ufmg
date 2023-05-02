@@ -10,6 +10,8 @@
 class cliente_ja_existe_e {};
 class cliente_nao_existe_e {};
 class sem_saldo_e {};
+class zero_carros_disponiveis{};
+
 
 class Sistema {
   private:
