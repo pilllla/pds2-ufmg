@@ -10,7 +10,7 @@
 // barricadas: breakpoints
 
 // valgrind: ferramenta, procura memory leaks e diz que eles existem e de que jeito; alocou no heap e nao apagou,
-// todo new deve ter um delete
+// todo new deve ter um delete (boa pratica)
 
 #include <exception>
 #include <iostream>s
